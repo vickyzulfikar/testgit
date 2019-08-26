@@ -1,1 +1,3 @@
-satu.php
+<?php
+echo "Vicky Zulfikar";
+?>
